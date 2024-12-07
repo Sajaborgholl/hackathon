@@ -1,5 +1,4 @@
 
-Here’s the README content in plain text:
 
 Stress Level Prediction Using Machine Learning
 Overview
