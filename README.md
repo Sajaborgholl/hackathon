@@ -47,7 +47,7 @@ We employed a range of machine learning concepts and techniques, including:
 
 ## Dependencies
 - Python 3.8+
-- Libraries: pandas, numpy, scikit-learn, XGBoost, matplotlib
+- Libraries: pandas, numpy, scikit-learn, XGBoost, matplotlib.
 
 ## How to Run
 1. Clone the repository:
